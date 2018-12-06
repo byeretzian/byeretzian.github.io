@@ -1,11 +1,11 @@
 # Site settings
 author: Barrett Yeretzian
-title: 
+title: Barrett's Data Science Blog
 header-img: img/home-bg.png
 email: barrettyeretzian@gmail.com
 copyright_name: Barrett Yeretzian
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Discussions about my Data Science experience
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  byeretzian
