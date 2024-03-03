@@ -7,14 +7,11 @@ copyright_name: Barrett Yeretzian
 description: > # this means to ignore newlines until "baseurl:"
   Discussions about my Data Science experience
 baseurl: "" # the subpath of your site, e.g. /blog
-twitter_username: 
-github_username:  byeretzian
+twitter_username:
+github_username: byeretzian
 
 # Build settings
 markdown: kramdown
 highlighter: rouge
 permalink: pretty
 paginate: 5
-exclude: ["less","node_modules","Gruntfile.js","package.json"]
-
-gems: [jekyll-paginate, jekyll-feed]
