@@ -1,24 +1,33 @@
-#Clean Blog by Start Bootstrap - Jekyll Version
+## EDUCATION:
+University of California, Santa Barbara Bachelor of Science in Actuarial Science
+Class of 2018
 
-The official Jekyll version of the Clean Blog theme by [Start Bootstrap](http://startbootstrap.com/).
+## WORK EXPERIENCE:
+Honda Performance Development, Inc., Santa Clarita, CA
+Data Analysis Engineer
+January 2019 – Present
 
-###[View Live Demo &rarr;](http://blackrockdigital.github.io/startbootstrap-clean-blog-jekyll/)
+- Use Angular and Node to create Azure-hosted websites and databases to access and visualize data and prepare infrastructure for live data streaming and analysis with Databricks and Kafka.
+- Collect and organize wind tunnel data and build multiple aerodynamic models per year using Python using SciKit Learn for use by aerodynamicists, to support simulations, and provide customers with event preparation.
+- Develop methods to collect, clean, analyze, and visualize race data in Python using Matplotlib and Pandas to form concise and statistically supported reports after each race event, which are used in presentations to investigate competitiveness and increase understanding of performance.
+- Write Python code to scrub off-car data at track tests, making information available momentarily after a run. Use statistical methods to quantify gains, resulting in significant performance increases.
+- Create tools using C#/C++ and object oriented programming in order to improve workflow in an effort to streamline the process of wind tunnel testing and aerodynamic modeling.
+- Initialize and maintain GitHub repositories to support the needs of multiple groups. Provide guidance on using version control, structuring code, and using Azure.
 
-## Before You Begin
+## CERTIFICATIONS:
+Stanford University – ICME Fundamentals of Data Science August 2020 Attended online workshops covering topics such as Linear Algebra, Mathematical Optimization, Deep Learning, and Data Visualization with Tableau to solidify knowledge base and investigate ways to add value.
 
-In the _config.yml file, the base URL is set to /startbootstrap-clean-blog-jekyll which is this themes gh-pages preview. It's recommended that you remove the base URL before working with this theme locally!
+## ACADEMIC PROJECTS/COMPUTER EXPERIENCE:
+- Mac and Windows operating systems and tools
+- Microsoft Excel, Word, and PowerPoint
+- Python, C#, C++, Javascript, Typescript
+- Azure, Databricks, SQL, Web design with Angular and Node
+- Version Control with Github
 
-It should look like this:
-`baseurl: ""`
+## RELEVANT COURSEWORK:
+- Data Analysis: Pandas and MatPlotlib, Model Validation, Hypothesis and AB Testing, JSON, KNN and Logistic Regression with Sci-Kit Learn, Ensemble Methods, Clustering, Principal Component Analysis
+- Applied Statistics: Regression Analysis, Time Series, Stochastic Processes, SAS
+- Mathematics: Linear Algebra, Vector Calculus, Differential Equations
 
-## What's Included
-
-A full Jekyll environment is included with this theme. If you have Jekyll installed, simply run `jekyll serve` in your command line and preview the build in your browser. You can use `jekyll serve --watch` to watch for changes in the source files as well.
-
-A Grunt environment is also included. There are a number of tasks it performs like minification of the JavaScript, compiling of the LESS files, adding banners to keep the Apache 2.0 license intact, and watching for changes. Run the grunt default task by entering `grunt` into your command line which will build the files. You can use `grunt watch` if you are working on the JavaScript or the LESS.
-
-You can run `jekyll serve --watch` and `grunt watch` at the same time to watch for changes and then build them all at once.
-
-## Support
-
-Visit Clean Blog's template overview page on Start Bootstrap at http://startbootstrap.com/template-overviews/clean-blog/ and leave a comment, email feedback@startbootstrap.com, or open an issue here on GitHub for support.
+## HOBBIES AND INTERESTS:
+- Martial Arts, Music, Travel, Cooking
